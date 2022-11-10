@@ -12,3 +12,10 @@
     height: 500px;
     background-color: red;
 }
+
+
+.img-size {
+    height: 250px;
+    background-color: green;
+    border: 1px solid green;
+}
