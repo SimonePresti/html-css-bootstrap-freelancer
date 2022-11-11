@@ -8,11 +8,7 @@
 }
 
 
-.img-size {
-    height: 200px;
-    background-color: green;
-    border: 1px solid green;
-}
+
 
 
 .about {
@@ -45,6 +41,7 @@ ul>li {
 }
 
 .line {
+    background-color: white;
     border: 1px solid white;
     width: 100px;
     
@@ -52,6 +49,17 @@ ul>li {
 
 .inside-line {
     background-color: white;
-    border: 1px solid white;
+    width: 100px;
+}
+
+.line-dark {
+    background-color:black;
+    border: 1px solid black;
+    width: 100px;
+    
+}
+
+.inside-line-dark {
+    background-color: black;
     width: 100px;
 }
